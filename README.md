@@ -2,7 +2,7 @@
 The repo illustrates how django custom authentication can be created along with multiple user-types
 
 # create a virtual-environment
-~pip freeze
+~pip freeze <br />
 ~mkvirtualenv django-custom-authentication
 
 # install requirements.txt
